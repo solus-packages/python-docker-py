@@ -1,14 +1,15 @@
 name       : python-docker-py
-version    : 1.10.6
-release    : 1
+version    : 2.0.2
+release    : 2
 source     :
-    - https://github.com/docker/docker-py/archive/1.10.6.tar.gz : dd1aa55dbe507538318e51e5303077d146d5176abd6b05fe9bcde24c289410bc
+    - https://github.com/docker/docker-py/archive/2.0.2.tar.gz : 1d4a9f65c1e70aec5501c4d84486e3c0d9d0a0dbaa66b48e91f50a108a5c6b9c
 license    : APACHE-2.0
 component  : programming.python
 summary    : An API client for docker written in Python
 description: An API client for docker written in Python
 builddeps  :
     - pkgconfig(python-3.5)
+    - pip
     - python-setuptools
 build      : |
     %python_setup
