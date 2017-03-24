@@ -1,8 +1,8 @@
 name       : python-docker-py
-version    : 2.0.2
-release    : 2
+version    : 2.2.0
+release    : 3
 source     :
-    - https://github.com/docker/docker-py/archive/2.0.2.tar.gz : 1d4a9f65c1e70aec5501c4d84486e3c0d9d0a0dbaa66b48e91f50a108a5c6b9c
+    - https://github.com/docker/docker-py/archive/2.2.0.tar.gz : 982d7a69cfd9f79d99630363dd18751bebadf55623f3a2fd1451c730107e03d0
 license    : APACHE-2.0
 component  : programming.python
 summary    : An API client for docker written in Python
