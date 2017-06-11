@@ -1,6 +1,6 @@
 name       : python-docker-py
 version    : 2.2.1
-release    : 4
+release    : 5
 source     :
     - https://github.com/docker/docker-py/archive/2.2.1.tar.gz : b84cda631daeaad532143b439af0235923647ed30da5fc4427e6929a637af122
 license    : Apache-2.0
@@ -12,6 +12,11 @@ builddeps  :
     - pkgconfig(python-3.5)
     - pip
     - python-setuptools
+rundeps    :
+    - python-docker-pycreds
+    - python-requests
+    - python-six
+    - python-websocket-client
 build      : |
     %python_setup
     %python3_setup

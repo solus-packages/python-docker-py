@@ -242,8 +242,8 @@
         </Files>
     </Package>
     <History>
-        <Update release="4">
-            <Date>2017-05-11</Date>
+        <Update release="5">
+            <Date>2017-06-11</Date>
             <Version>2.2.1</Version>
             <Comment>Packaging update</Comment>
             <Name>Peter O&apos;Connor</Name>
