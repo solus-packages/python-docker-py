@@ -2,8 +2,8 @@
     <Source>
         <Name>python-docker-py</Name>
         <Packager>
-            <Name>Joshua Strobl</Name>
-            <Email>joshua@stroblindustries.com</Email>
+            <Name>Ikey Doherty</Name>
+            <Email>ikey@solus-project.com</Email>
         </Packager>
         <License>Apache-2.0</License>
         <PartOf>programming.python</PartOf>
@@ -19,12 +19,12 @@
 </Description>
         <PartOf>programming.python</PartOf>
         <Files>
-            <Path fileType="library">/usr/lib/python2.7/site-packages/docker-2.3.0-py2.7.egg-info/PKG-INFO</Path>
-            <Path fileType="library">/usr/lib/python2.7/site-packages/docker-2.3.0-py2.7.egg-info/SOURCES.txt</Path>
-            <Path fileType="library">/usr/lib/python2.7/site-packages/docker-2.3.0-py2.7.egg-info/dependency_links.txt</Path>
-            <Path fileType="library">/usr/lib/python2.7/site-packages/docker-2.3.0-py2.7.egg-info/not-zip-safe</Path>
-            <Path fileType="library">/usr/lib/python2.7/site-packages/docker-2.3.0-py2.7.egg-info/requires.txt</Path>
-            <Path fileType="library">/usr/lib/python2.7/site-packages/docker-2.3.0-py2.7.egg-info/top_level.txt</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/docker-2.6.1-py2.7.egg-info/PKG-INFO</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/docker-2.6.1-py2.7.egg-info/SOURCES.txt</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/docker-2.6.1-py2.7.egg-info/dependency_links.txt</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/docker-2.6.1-py2.7.egg-info/not-zip-safe</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/docker-2.6.1-py2.7.egg-info/requires.txt</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/docker-2.6.1-py2.7.egg-info/top_level.txt</Path>
             <Path fileType="library">/usr/lib/python2.7/site-packages/docker/__init__.py</Path>
             <Path fileType="library">/usr/lib/python2.7/site-packages/docker/__init__.pyc</Path>
             <Path fileType="library">/usr/lib/python2.7/site-packages/docker/api/__init__.py</Path>
@@ -33,6 +33,8 @@
             <Path fileType="library">/usr/lib/python2.7/site-packages/docker/api/build.pyc</Path>
             <Path fileType="library">/usr/lib/python2.7/site-packages/docker/api/client.py</Path>
             <Path fileType="library">/usr/lib/python2.7/site-packages/docker/api/client.pyc</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/docker/api/config.py</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/docker/api/config.pyc</Path>
             <Path fileType="library">/usr/lib/python2.7/site-packages/docker/api/container.py</Path>
             <Path fileType="library">/usr/lib/python2.7/site-packages/docker/api/container.pyc</Path>
             <Path fileType="library">/usr/lib/python2.7/site-packages/docker/api/daemon.py</Path>
@@ -63,6 +65,8 @@
             <Path fileType="library">/usr/lib/python2.7/site-packages/docker/errors.pyc</Path>
             <Path fileType="library">/usr/lib/python2.7/site-packages/docker/models/__init__.py</Path>
             <Path fileType="library">/usr/lib/python2.7/site-packages/docker/models/__init__.pyc</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/docker/models/configs.py</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/docker/models/configs.pyc</Path>
             <Path fileType="library">/usr/lib/python2.7/site-packages/docker/models/containers.py</Path>
             <Path fileType="library">/usr/lib/python2.7/site-packages/docker/models/containers.pyc</Path>
             <Path fileType="library">/usr/lib/python2.7/site-packages/docker/models/images.py</Path>
@@ -127,12 +131,12 @@
             <Path fileType="library">/usr/lib/python2.7/site-packages/docker/utils/utils.pyc</Path>
             <Path fileType="library">/usr/lib/python2.7/site-packages/docker/version.py</Path>
             <Path fileType="library">/usr/lib/python2.7/site-packages/docker/version.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/docker-2.3.0-py3.5.egg-info/PKG-INFO</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/docker-2.3.0-py3.5.egg-info/SOURCES.txt</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/docker-2.3.0-py3.5.egg-info/dependency_links.txt</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/docker-2.3.0-py3.5.egg-info/not-zip-safe</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/docker-2.3.0-py3.5.egg-info/requires.txt</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/docker-2.3.0-py3.5.egg-info/top_level.txt</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/docker-2.6.1-py3.5.egg-info/PKG-INFO</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/docker-2.6.1-py3.5.egg-info/SOURCES.txt</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/docker-2.6.1-py3.5.egg-info/dependency_links.txt</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/docker-2.6.1-py3.5.egg-info/not-zip-safe</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/docker-2.6.1-py3.5.egg-info/requires.txt</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/docker-2.6.1-py3.5.egg-info/top_level.txt</Path>
             <Path fileType="library">/usr/lib/python3.5/site-packages/docker/__init__.py</Path>
             <Path fileType="library">/usr/lib/python3.5/site-packages/docker/__pycache__/__init__.cpython-35.pyc</Path>
             <Path fileType="library">/usr/lib/python3.5/site-packages/docker/__pycache__/auth.cpython-35.pyc</Path>
@@ -145,6 +149,7 @@
             <Path fileType="library">/usr/lib/python3.5/site-packages/docker/api/__pycache__/__init__.cpython-35.pyc</Path>
             <Path fileType="library">/usr/lib/python3.5/site-packages/docker/api/__pycache__/build.cpython-35.pyc</Path>
             <Path fileType="library">/usr/lib/python3.5/site-packages/docker/api/__pycache__/client.cpython-35.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/docker/api/__pycache__/config.cpython-35.pyc</Path>
             <Path fileType="library">/usr/lib/python3.5/site-packages/docker/api/__pycache__/container.cpython-35.pyc</Path>
             <Path fileType="library">/usr/lib/python3.5/site-packages/docker/api/__pycache__/daemon.cpython-35.pyc</Path>
             <Path fileType="library">/usr/lib/python3.5/site-packages/docker/api/__pycache__/exec_api.cpython-35.pyc</Path>
@@ -157,6 +162,7 @@
             <Path fileType="library">/usr/lib/python3.5/site-packages/docker/api/__pycache__/volume.cpython-35.pyc</Path>
             <Path fileType="library">/usr/lib/python3.5/site-packages/docker/api/build.py</Path>
             <Path fileType="library">/usr/lib/python3.5/site-packages/docker/api/client.py</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/docker/api/config.py</Path>
             <Path fileType="library">/usr/lib/python3.5/site-packages/docker/api/container.py</Path>
             <Path fileType="library">/usr/lib/python3.5/site-packages/docker/api/daemon.py</Path>
             <Path fileType="library">/usr/lib/python3.5/site-packages/docker/api/exec_api.py</Path>
@@ -173,6 +179,7 @@
             <Path fileType="library">/usr/lib/python3.5/site-packages/docker/errors.py</Path>
             <Path fileType="library">/usr/lib/python3.5/site-packages/docker/models/__init__.py</Path>
             <Path fileType="library">/usr/lib/python3.5/site-packages/docker/models/__pycache__/__init__.cpython-35.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/docker/models/__pycache__/configs.cpython-35.pyc</Path>
             <Path fileType="library">/usr/lib/python3.5/site-packages/docker/models/__pycache__/containers.cpython-35.pyc</Path>
             <Path fileType="library">/usr/lib/python3.5/site-packages/docker/models/__pycache__/images.cpython-35.pyc</Path>
             <Path fileType="library">/usr/lib/python3.5/site-packages/docker/models/__pycache__/networks.cpython-35.pyc</Path>
@@ -183,6 +190,7 @@
             <Path fileType="library">/usr/lib/python3.5/site-packages/docker/models/__pycache__/services.cpython-35.pyc</Path>
             <Path fileType="library">/usr/lib/python3.5/site-packages/docker/models/__pycache__/swarm.cpython-35.pyc</Path>
             <Path fileType="library">/usr/lib/python3.5/site-packages/docker/models/__pycache__/volumes.cpython-35.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/docker/models/configs.py</Path>
             <Path fileType="library">/usr/lib/python3.5/site-packages/docker/models/containers.py</Path>
             <Path fileType="library">/usr/lib/python3.5/site-packages/docker/models/images.py</Path>
             <Path fileType="library">/usr/lib/python3.5/site-packages/docker/models/networks.py</Path>
@@ -238,12 +246,12 @@
         </Files>
     </Package>
     <History>
-        <Update release="6">
-            <Date>2017-06-24</Date>
-            <Version>2.3.0</Version>
+        <Update release="7">
+            <Date>2017-11-26</Date>
+            <Version>2.6.1</Version>
             <Comment>Packaging update</Comment>
-            <Name>Joshua Strobl</Name>
-            <Email>joshua@stroblindustries.com</Email>
+            <Name>Ikey Doherty</Name>
+            <Email>ikey@solus-project.com</Email>
         </Update>
     </History>
 </PISI>
