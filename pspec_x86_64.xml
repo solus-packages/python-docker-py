@@ -2,8 +2,8 @@
     <Source>
         <Name>python-docker-py</Name>
         <Packager>
-            <Name>Peter O&apos;Connor</Name>
-            <Email>peter@solus-project.com</Email>
+            <Name>Sönke Behrendt</Name>
+            <Email>thesoenke@outlook.com</Email>
         </Packager>
         <License>Apache-2.0</License>
         <PartOf>programming.python</PartOf>
@@ -19,12 +19,12 @@
 </Description>
         <PartOf>programming.python</PartOf>
         <Files>
-            <Path fileType="library">/usr/lib/python2.7/site-packages/docker-2.6.1-py2.7.egg-info/PKG-INFO</Path>
-            <Path fileType="library">/usr/lib/python2.7/site-packages/docker-2.6.1-py2.7.egg-info/SOURCES.txt</Path>
-            <Path fileType="library">/usr/lib/python2.7/site-packages/docker-2.6.1-py2.7.egg-info/dependency_links.txt</Path>
-            <Path fileType="library">/usr/lib/python2.7/site-packages/docker-2.6.1-py2.7.egg-info/not-zip-safe</Path>
-            <Path fileType="library">/usr/lib/python2.7/site-packages/docker-2.6.1-py2.7.egg-info/requires.txt</Path>
-            <Path fileType="library">/usr/lib/python2.7/site-packages/docker-2.6.1-py2.7.egg-info/top_level.txt</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/docker-3.4.1-py2.7.egg-info/PKG-INFO</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/docker-3.4.1-py2.7.egg-info/SOURCES.txt</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/docker-3.4.1-py2.7.egg-info/dependency_links.txt</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/docker-3.4.1-py2.7.egg-info/not-zip-safe</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/docker-3.4.1-py2.7.egg-info/requires.txt</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/docker-3.4.1-py2.7.egg-info/top_level.txt</Path>
             <Path fileType="library">/usr/lib/python2.7/site-packages/docker/__init__.py</Path>
             <Path fileType="library">/usr/lib/python2.7/site-packages/docker/__init__.pyc</Path>
             <Path fileType="library">/usr/lib/python2.7/site-packages/docker/api/__init__.py</Path>
@@ -105,6 +105,8 @@
             <Path fileType="library">/usr/lib/python2.7/site-packages/docker/types/base.pyc</Path>
             <Path fileType="library">/usr/lib/python2.7/site-packages/docker/types/containers.py</Path>
             <Path fileType="library">/usr/lib/python2.7/site-packages/docker/types/containers.pyc</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/docker/types/daemon.py</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/docker/types/daemon.pyc</Path>
             <Path fileType="library">/usr/lib/python2.7/site-packages/docker/types/healthcheck.py</Path>
             <Path fileType="library">/usr/lib/python2.7/site-packages/docker/types/healthcheck.pyc</Path>
             <Path fileType="library">/usr/lib/python2.7/site-packages/docker/types/networks.py</Path>
@@ -117,6 +119,8 @@
             <Path fileType="library">/usr/lib/python2.7/site-packages/docker/utils/__init__.pyc</Path>
             <Path fileType="library">/usr/lib/python2.7/site-packages/docker/utils/build.py</Path>
             <Path fileType="library">/usr/lib/python2.7/site-packages/docker/utils/build.pyc</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/docker/utils/config.py</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/docker/utils/config.pyc</Path>
             <Path fileType="library">/usr/lib/python2.7/site-packages/docker/utils/decorators.py</Path>
             <Path fileType="library">/usr/lib/python2.7/site-packages/docker/utils/decorators.pyc</Path>
             <Path fileType="library">/usr/lib/python2.7/site-packages/docker/utils/fnmatch.py</Path>
@@ -131,12 +135,12 @@
             <Path fileType="library">/usr/lib/python2.7/site-packages/docker/utils/utils.pyc</Path>
             <Path fileType="library">/usr/lib/python2.7/site-packages/docker/version.py</Path>
             <Path fileType="library">/usr/lib/python2.7/site-packages/docker/version.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/docker-2.6.1-py3.6.egg-info/PKG-INFO</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/docker-2.6.1-py3.6.egg-info/SOURCES.txt</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/docker-2.6.1-py3.6.egg-info/dependency_links.txt</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/docker-2.6.1-py3.6.egg-info/not-zip-safe</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/docker-2.6.1-py3.6.egg-info/requires.txt</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/docker-2.6.1-py3.6.egg-info/top_level.txt</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/docker-3.4.1-py3.6.egg-info/PKG-INFO</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/docker-3.4.1-py3.6.egg-info/SOURCES.txt</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/docker-3.4.1-py3.6.egg-info/dependency_links.txt</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/docker-3.4.1-py3.6.egg-info/not-zip-safe</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/docker-3.4.1-py3.6.egg-info/requires.txt</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/docker-3.4.1-py3.6.egg-info/top_level.txt</Path>
             <Path fileType="library">/usr/lib/python3.6/site-packages/docker/__init__.py</Path>
             <Path fileType="library">/usr/lib/python3.6/site-packages/docker/__pycache__/__init__.cpython-36.pyc</Path>
             <Path fileType="library">/usr/lib/python3.6/site-packages/docker/__pycache__/auth.cpython-36.pyc</Path>
@@ -216,12 +220,14 @@
             <Path fileType="library">/usr/lib/python3.6/site-packages/docker/types/__pycache__/__init__.cpython-36.pyc</Path>
             <Path fileType="library">/usr/lib/python3.6/site-packages/docker/types/__pycache__/base.cpython-36.pyc</Path>
             <Path fileType="library">/usr/lib/python3.6/site-packages/docker/types/__pycache__/containers.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/docker/types/__pycache__/daemon.cpython-36.pyc</Path>
             <Path fileType="library">/usr/lib/python3.6/site-packages/docker/types/__pycache__/healthcheck.cpython-36.pyc</Path>
             <Path fileType="library">/usr/lib/python3.6/site-packages/docker/types/__pycache__/networks.cpython-36.pyc</Path>
             <Path fileType="library">/usr/lib/python3.6/site-packages/docker/types/__pycache__/services.cpython-36.pyc</Path>
             <Path fileType="library">/usr/lib/python3.6/site-packages/docker/types/__pycache__/swarm.cpython-36.pyc</Path>
             <Path fileType="library">/usr/lib/python3.6/site-packages/docker/types/base.py</Path>
             <Path fileType="library">/usr/lib/python3.6/site-packages/docker/types/containers.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/docker/types/daemon.py</Path>
             <Path fileType="library">/usr/lib/python3.6/site-packages/docker/types/healthcheck.py</Path>
             <Path fileType="library">/usr/lib/python3.6/site-packages/docker/types/networks.py</Path>
             <Path fileType="library">/usr/lib/python3.6/site-packages/docker/types/services.py</Path>
@@ -229,6 +235,7 @@
             <Path fileType="library">/usr/lib/python3.6/site-packages/docker/utils/__init__.py</Path>
             <Path fileType="library">/usr/lib/python3.6/site-packages/docker/utils/__pycache__/__init__.cpython-36.pyc</Path>
             <Path fileType="library">/usr/lib/python3.6/site-packages/docker/utils/__pycache__/build.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/docker/utils/__pycache__/config.cpython-36.pyc</Path>
             <Path fileType="library">/usr/lib/python3.6/site-packages/docker/utils/__pycache__/decorators.cpython-36.pyc</Path>
             <Path fileType="library">/usr/lib/python3.6/site-packages/docker/utils/__pycache__/fnmatch.cpython-36.pyc</Path>
             <Path fileType="library">/usr/lib/python3.6/site-packages/docker/utils/__pycache__/json_stream.cpython-36.pyc</Path>
@@ -236,6 +243,7 @@
             <Path fileType="library">/usr/lib/python3.6/site-packages/docker/utils/__pycache__/socket.cpython-36.pyc</Path>
             <Path fileType="library">/usr/lib/python3.6/site-packages/docker/utils/__pycache__/utils.cpython-36.pyc</Path>
             <Path fileType="library">/usr/lib/python3.6/site-packages/docker/utils/build.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/docker/utils/config.py</Path>
             <Path fileType="library">/usr/lib/python3.6/site-packages/docker/utils/decorators.py</Path>
             <Path fileType="library">/usr/lib/python3.6/site-packages/docker/utils/fnmatch.py</Path>
             <Path fileType="library">/usr/lib/python3.6/site-packages/docker/utils/json_stream.py</Path>
@@ -246,12 +254,12 @@
         </Files>
     </Package>
     <History>
-        <Update release="8">
-            <Date>2018-01-30</Date>
-            <Version>2.6.1</Version>
+        <Update release="9">
+            <Date>2018-07-18</Date>
+            <Version>3.4.1</Version>
             <Comment>Packaging update</Comment>
-            <Name>Peter O&apos;Connor</Name>
-            <Email>peter@solus-project.com</Email>
+            <Name>Sönke Behrendt</Name>
+            <Email>thesoenke@outlook.com</Email>
         </Update>
     </History>
 </PISI>
