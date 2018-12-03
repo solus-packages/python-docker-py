@@ -19,12 +19,12 @@
 </Description>
         <PartOf>programming.python</PartOf>
         <Files>
-            <Path fileType="library">/usr/lib/python2.7/site-packages/docker-3.5.1-py2.7.egg-info/PKG-INFO</Path>
-            <Path fileType="library">/usr/lib/python2.7/site-packages/docker-3.5.1-py2.7.egg-info/SOURCES.txt</Path>
-            <Path fileType="library">/usr/lib/python2.7/site-packages/docker-3.5.1-py2.7.egg-info/dependency_links.txt</Path>
-            <Path fileType="library">/usr/lib/python2.7/site-packages/docker-3.5.1-py2.7.egg-info/not-zip-safe</Path>
-            <Path fileType="library">/usr/lib/python2.7/site-packages/docker-3.5.1-py2.7.egg-info/requires.txt</Path>
-            <Path fileType="library">/usr/lib/python2.7/site-packages/docker-3.5.1-py2.7.egg-info/top_level.txt</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/docker-3.6.0-py2.7.egg-info/PKG-INFO</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/docker-3.6.0-py2.7.egg-info/SOURCES.txt</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/docker-3.6.0-py2.7.egg-info/dependency_links.txt</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/docker-3.6.0-py2.7.egg-info/not-zip-safe</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/docker-3.6.0-py2.7.egg-info/requires.txt</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/docker-3.6.0-py2.7.egg-info/top_level.txt</Path>
             <Path fileType="library">/usr/lib/python2.7/site-packages/docker/__init__.py</Path>
             <Path fileType="library">/usr/lib/python2.7/site-packages/docker/__init__.pyc</Path>
             <Path fileType="library">/usr/lib/python2.7/site-packages/docker/api/__init__.py</Path>
@@ -95,6 +95,8 @@
             <Path fileType="library">/usr/lib/python2.7/site-packages/docker/transport/npipeconn.pyc</Path>
             <Path fileType="library">/usr/lib/python2.7/site-packages/docker/transport/npipesocket.py</Path>
             <Path fileType="library">/usr/lib/python2.7/site-packages/docker/transport/npipesocket.pyc</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/docker/transport/sshconn.py</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/docker/transport/sshconn.pyc</Path>
             <Path fileType="library">/usr/lib/python2.7/site-packages/docker/transport/ssladapter.py</Path>
             <Path fileType="library">/usr/lib/python2.7/site-packages/docker/transport/ssladapter.pyc</Path>
             <Path fileType="library">/usr/lib/python2.7/site-packages/docker/transport/unixconn.py</Path>
@@ -135,12 +137,12 @@
             <Path fileType="library">/usr/lib/python2.7/site-packages/docker/utils/utils.pyc</Path>
             <Path fileType="library">/usr/lib/python2.7/site-packages/docker/version.py</Path>
             <Path fileType="library">/usr/lib/python2.7/site-packages/docker/version.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/docker-3.5.1-py3.6.egg-info/PKG-INFO</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/docker-3.5.1-py3.6.egg-info/SOURCES.txt</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/docker-3.5.1-py3.6.egg-info/dependency_links.txt</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/docker-3.5.1-py3.6.egg-info/not-zip-safe</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/docker-3.5.1-py3.6.egg-info/requires.txt</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/docker-3.5.1-py3.6.egg-info/top_level.txt</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/docker-3.6.0-py3.6.egg-info/PKG-INFO</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/docker-3.6.0-py3.6.egg-info/SOURCES.txt</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/docker-3.6.0-py3.6.egg-info/dependency_links.txt</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/docker-3.6.0-py3.6.egg-info/not-zip-safe</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/docker-3.6.0-py3.6.egg-info/requires.txt</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/docker-3.6.0-py3.6.egg-info/top_level.txt</Path>
             <Path fileType="library">/usr/lib/python3.6/site-packages/docker/__init__.py</Path>
             <Path fileType="library">/usr/lib/python3.6/site-packages/docker/__pycache__/__init__.cpython-36.pyc</Path>
             <Path fileType="library">/usr/lib/python3.6/site-packages/docker/__pycache__/auth.cpython-36.pyc</Path>
@@ -210,10 +212,12 @@
             <Path fileType="library">/usr/lib/python3.6/site-packages/docker/transport/__pycache__/__init__.cpython-36.pyc</Path>
             <Path fileType="library">/usr/lib/python3.6/site-packages/docker/transport/__pycache__/npipeconn.cpython-36.pyc</Path>
             <Path fileType="library">/usr/lib/python3.6/site-packages/docker/transport/__pycache__/npipesocket.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/docker/transport/__pycache__/sshconn.cpython-36.pyc</Path>
             <Path fileType="library">/usr/lib/python3.6/site-packages/docker/transport/__pycache__/ssladapter.cpython-36.pyc</Path>
             <Path fileType="library">/usr/lib/python3.6/site-packages/docker/transport/__pycache__/unixconn.cpython-36.pyc</Path>
             <Path fileType="library">/usr/lib/python3.6/site-packages/docker/transport/npipeconn.py</Path>
             <Path fileType="library">/usr/lib/python3.6/site-packages/docker/transport/npipesocket.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/docker/transport/sshconn.py</Path>
             <Path fileType="library">/usr/lib/python3.6/site-packages/docker/transport/ssladapter.py</Path>
             <Path fileType="library">/usr/lib/python3.6/site-packages/docker/transport/unixconn.py</Path>
             <Path fileType="library">/usr/lib/python3.6/site-packages/docker/types/__init__.py</Path>
@@ -254,9 +258,9 @@
         </Files>
     </Package>
     <History>
-        <Update release="11">
-            <Date>2018-11-23</Date>
-            <Version>3.5.1</Version>
+        <Update release="12">
+            <Date>2018-11-30</Date>
+            <Version>3.6.0</Version>
             <Comment>Packaging update</Comment>
             <Name>Philipp Trulson</Name>
             <Email>philipp@trulson.de</Email>
