@@ -19,12 +19,12 @@
 </Description>
         <PartOf>programming.python</PartOf>
         <Files>
-            <Path fileType="library">/usr/lib/python2.7/site-packages/docker-3.6.0-py2.7.egg-info/PKG-INFO</Path>
-            <Path fileType="library">/usr/lib/python2.7/site-packages/docker-3.6.0-py2.7.egg-info/SOURCES.txt</Path>
-            <Path fileType="library">/usr/lib/python2.7/site-packages/docker-3.6.0-py2.7.egg-info/dependency_links.txt</Path>
-            <Path fileType="library">/usr/lib/python2.7/site-packages/docker-3.6.0-py2.7.egg-info/not-zip-safe</Path>
-            <Path fileType="library">/usr/lib/python2.7/site-packages/docker-3.6.0-py2.7.egg-info/requires.txt</Path>
-            <Path fileType="library">/usr/lib/python2.7/site-packages/docker-3.6.0-py2.7.egg-info/top_level.txt</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/docker-3.7.0-py2.7.egg-info/PKG-INFO</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/docker-3.7.0-py2.7.egg-info/SOURCES.txt</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/docker-3.7.0-py2.7.egg-info/dependency_links.txt</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/docker-3.7.0-py2.7.egg-info/not-zip-safe</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/docker-3.7.0-py2.7.egg-info/requires.txt</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/docker-3.7.0-py2.7.egg-info/top_level.txt</Path>
             <Path fileType="library">/usr/lib/python2.7/site-packages/docker/__init__.py</Path>
             <Path fileType="library">/usr/lib/python2.7/site-packages/docker/__init__.pyc</Path>
             <Path fileType="library">/usr/lib/python2.7/site-packages/docker/api/__init__.py</Path>
@@ -131,18 +131,20 @@
             <Path fileType="library">/usr/lib/python2.7/site-packages/docker/utils/json_stream.pyc</Path>
             <Path fileType="library">/usr/lib/python2.7/site-packages/docker/utils/ports.py</Path>
             <Path fileType="library">/usr/lib/python2.7/site-packages/docker/utils/ports.pyc</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/docker/utils/proxy.py</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/docker/utils/proxy.pyc</Path>
             <Path fileType="library">/usr/lib/python2.7/site-packages/docker/utils/socket.py</Path>
             <Path fileType="library">/usr/lib/python2.7/site-packages/docker/utils/socket.pyc</Path>
             <Path fileType="library">/usr/lib/python2.7/site-packages/docker/utils/utils.py</Path>
             <Path fileType="library">/usr/lib/python2.7/site-packages/docker/utils/utils.pyc</Path>
             <Path fileType="library">/usr/lib/python2.7/site-packages/docker/version.py</Path>
             <Path fileType="library">/usr/lib/python2.7/site-packages/docker/version.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/docker-3.6.0-py3.6.egg-info/PKG-INFO</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/docker-3.6.0-py3.6.egg-info/SOURCES.txt</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/docker-3.6.0-py3.6.egg-info/dependency_links.txt</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/docker-3.6.0-py3.6.egg-info/not-zip-safe</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/docker-3.6.0-py3.6.egg-info/requires.txt</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/docker-3.6.0-py3.6.egg-info/top_level.txt</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/docker-3.7.0-py3.6.egg-info/PKG-INFO</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/docker-3.7.0-py3.6.egg-info/SOURCES.txt</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/docker-3.7.0-py3.6.egg-info/dependency_links.txt</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/docker-3.7.0-py3.6.egg-info/not-zip-safe</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/docker-3.7.0-py3.6.egg-info/requires.txt</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/docker-3.7.0-py3.6.egg-info/top_level.txt</Path>
             <Path fileType="library">/usr/lib/python3.6/site-packages/docker/__init__.py</Path>
             <Path fileType="library">/usr/lib/python3.6/site-packages/docker/__pycache__/__init__.cpython-36.pyc</Path>
             <Path fileType="library">/usr/lib/python3.6/site-packages/docker/__pycache__/auth.cpython-36.pyc</Path>
@@ -244,6 +246,7 @@
             <Path fileType="library">/usr/lib/python3.6/site-packages/docker/utils/__pycache__/fnmatch.cpython-36.pyc</Path>
             <Path fileType="library">/usr/lib/python3.6/site-packages/docker/utils/__pycache__/json_stream.cpython-36.pyc</Path>
             <Path fileType="library">/usr/lib/python3.6/site-packages/docker/utils/__pycache__/ports.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/docker/utils/__pycache__/proxy.cpython-36.pyc</Path>
             <Path fileType="library">/usr/lib/python3.6/site-packages/docker/utils/__pycache__/socket.cpython-36.pyc</Path>
             <Path fileType="library">/usr/lib/python3.6/site-packages/docker/utils/__pycache__/utils.cpython-36.pyc</Path>
             <Path fileType="library">/usr/lib/python3.6/site-packages/docker/utils/build.py</Path>
@@ -252,15 +255,16 @@
             <Path fileType="library">/usr/lib/python3.6/site-packages/docker/utils/fnmatch.py</Path>
             <Path fileType="library">/usr/lib/python3.6/site-packages/docker/utils/json_stream.py</Path>
             <Path fileType="library">/usr/lib/python3.6/site-packages/docker/utils/ports.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/docker/utils/proxy.py</Path>
             <Path fileType="library">/usr/lib/python3.6/site-packages/docker/utils/socket.py</Path>
             <Path fileType="library">/usr/lib/python3.6/site-packages/docker/utils/utils.py</Path>
             <Path fileType="library">/usr/lib/python3.6/site-packages/docker/version.py</Path>
         </Files>
     </Package>
     <History>
-        <Update release="12">
-            <Date>2018-11-30</Date>
-            <Version>3.6.0</Version>
+        <Update release="13">
+            <Date>2019-01-10</Date>
+            <Version>3.7.0</Version>
             <Comment>Packaging update</Comment>
             <Name>Philipp Trulson</Name>
             <Email>philipp@trulson.de</Email>
