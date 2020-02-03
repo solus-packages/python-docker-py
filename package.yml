@@ -1,6 +1,6 @@
 name       : python-docker-py
 version    : 4.0.1
-release    : 14
+release    : 15
 source     :
     - https://github.com/docker/docker-py/archive/4.0.1.tar.gz : bd38b91da6f71207a409a245811b0502be7b1d3031d8a4491d47121b24821061
 license    : Apache-2.0
